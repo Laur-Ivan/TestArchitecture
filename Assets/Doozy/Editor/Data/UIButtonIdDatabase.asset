@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd14fc30d004417a423cfdef2bd9ccf, type: 3}
+  m_Name: UIButtonIdDatabase
+  m_EditorClassIdentifier: 
+  Database:
+    Items:
+    - Category: Action
+      Name: AddToCart
+    - Category: Action
+      Name: AddToFavorites
+    - Category: Action
+      Name: Calendar
+    - Category: Action
+      Name: Camera
+    - Category: Action
+      Name: Close
+    - Category: Action
+      Name: Gamepad
+    - Category: Action
+      Name: Gift
+    - Category: Action
+      Name: Language
+    - Category: Action
+      Name: Map
+    - Category: Action
+      Name: Minus
+    - Category: Action
+      Name: Plus
+    - Category: Action
+      Name: Redo
+    - Category: Action
+      Name: Refresh
+    - Category: Action
+      Name: Reply
+    - Category: Action
+      Name: ReportBug
+    - Category: Action
+      Name: Search
+    - Category: Action
+      Name: SendEmail
+    - Category: Action
+      Name: Share
+    - Category: Action
+      Name: Star
+    - Category: Action
+      Name: Tag
+    - Category: Action
+      Name: Undo
+    - Category: Direction
+      Name: Down
+    - Category: Direction
+      Name: Left
+    - Category: Direction
+      Name: Right
+    - Category: Direction
+      Name: Up
+    - Category: Generic
+      Name: Add
+    - Category: Generic
+      Name: Back
+    - Category: Generic
+      Name: Cancel
+    - Category: Generic
+      Name: Clear
+    - Category: Generic
+      Name: Close
+    - Category: Generic
+      Name: Delete
+    - Category: Generic
+      Name: Disable
+    - Category: Generic
+      Name: Enable
+    - Category: Generic
+      Name: Help
+    - Category: Generic
+      Name: Load
+    - Category: Generic
+      Name: No
+    - Category: Generic
+      Name: Ok
+    - Category: Generic
+      Name: Pause
+    - Category: Generic
+      Name: Play
+    - Category: Generic
+      Name: Refresh
+    - Category: Generic
+      Name: Remove
+    - Category: Generic
+      Name: Restore
+    - Category: Generic
+      Name: Resume
+    - Category: Generic
+      Name: Save
+    - Category: Generic
+      Name: Send
+    - Category: Generic
+      Name: Settings
+    - Category: Generic
+      Name: Start
+    - Category: Generic
+      Name: Stats
+    - Category: Generic
+      Name: Stop
+    - Category: Generic
+      Name: Yes
+    - Category: Medcare
+      Name: CalculateAnteversion
+    - Category: Medcare
+      Name: CollectLandmark
+    - Category: Medcare
+      Name: CupNavigation
+    - Category: Medcare
+      Name: InitialScreen
+    - Category: Medcare
+      Name: PatientRegistration
+    - Category: Medcare
+      Name: ToolRegistration
+    - Category: Media
+      Name: Backward
+    - Category: Media
+      Name: BackwardStep
+    - Category: Media
+      Name: Forward
+    - Category: Media
+      Name: ForwardStep
+    - Category: Media
+      Name: Pause
+    - Category: Media
+      Name: Play
+    - Category: Media
+      Name: PlayPause
+    - Category: Media
+      Name: Repeat
+    - Category: Media
+      Name: Stop
+    - Category: Navigation
+      Name: Back
+    - Category: Navigation
+      Name: Cancel
+    - Category: Navigation
+      Name: Next
+    - Category: Navigation
+      Name: Ok
+    - Category: None
+      Name: None
+    - Category: Shop
+      Name: Buy
+    - Category: Shop
+      Name: Close
+    - Category: Shop
+      Name: Open
+    - Category: Shop
+      Name: Sell
